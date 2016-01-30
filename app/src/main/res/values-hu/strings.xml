@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoEkspert</string>
+
+    <string name="login">Belépés</string>
+    <string name="enter_your_username">Felhasználó név</string>
+    <string name="enter_your_password">Jelszó</string>
+    <string name="This_field_is_required">Kötelezően kitöltendő mező</string>
+
+</resources>
